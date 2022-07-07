@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mtg-timeline/static/css/main.073c9b0a.css",
+    "main.js": "/mtg-timeline/static/js/main.8bd8b917.js",
+    "static/js/787.af189cec.chunk.js": "/mtg-timeline/static/js/787.af189cec.chunk.js",
+    "static/media/logo.svg": "/mtg-timeline/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mtg-timeline/index.html",
+    "main.073c9b0a.css.map": "/mtg-timeline/static/css/main.073c9b0a.css.map",
+    "main.8bd8b917.js.map": "/mtg-timeline/static/js/main.8bd8b917.js.map",
+    "787.af189cec.chunk.js.map": "/mtg-timeline/static/js/787.af189cec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8bd8b917.js"
+  ]
+}
